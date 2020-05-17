@@ -1,7 +1,7 @@
 @team : Nebula
 My pretrained model is too large, so i was not able to add those files here,Iam providing here the google drive link please download it from here:https://drive.google.com/open?id=1EfVsvsG6HFNL0q18gL4qlptksVVVT4zI
 
-Sorry for the inconvenience caused by me.
+Sorry for the inconvenience caused by team Nebula.
 
 # TheThirdEye
 
