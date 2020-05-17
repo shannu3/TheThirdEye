@@ -1,0 +1,2 @@
+# TheThirdEye
+This project helps blind people to walk and cross the roads safely, we will be providing an AI camera which detects objects infront of him and the same will be infromed to him via wired or bluetooth earphones, this helps him to walk on roads safely.  Programming language:Python. Libraries using:opencv,numpy. Concept:DeepNeuralNetworks,Artifical Intelligence.
